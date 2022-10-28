@@ -1,6 +1,21 @@
 # Colour-Alignment-for-Relative-Colour-Constancy-via-Non-standard-References
 
-Demonstration code and dataset for the paper titled "Colour alignment for relative colour constancy via non-standard references". For further exploration, please cite our paper:
+Demonstration code and dataset for the paper titled "Color alignment for relative color constancy via non-standard references". For further exploration, please cite our paper:
+
+```
+@article{9923595,
+  author={Zhao, Yunfeng and Ferguson, Stuart and Zhou, Huiyu and Elliott, Christopher and Rafferty, Karen},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Color Alignment for Relative Color Constancy via Non-Standard References}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={6591-6604},
+  doi={10.1109/TIP.2022.3214107}
+}
+```
+
+IEEE Xplore link: https://ieeexplore.ieee.org/document/9923595
 
 Arxiv link: https://arxiv.org/abs/2112.15106
 
@@ -120,7 +135,9 @@ A list of the cameras selected in the modified Middlebury dataset:
 
 `tags.json` file provides label information that indicates regions of colour patches in the images.
 
-Indexes of colour patches in this demonstration:
+Here, indexes of colour patches used in this demo and those reported in the paper are explained for index-mapping.
+
+Indexes of colour patches in this demo:
 
 ![indexes1](https://user-images.githubusercontent.com/5927085/195492641-a51cd19f-1769-4850-bc5d-973016e65491.png)
 
